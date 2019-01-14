@@ -1,0 +1,9 @@
+http://127.0.0.1/EasyAccounts_CI/local/
+http://127.0.0.1/EasyAccounts_CI/local/dbConnect.php
+http://127.0.0.1/EasyAccounts_CI/local/failedCommand.php
+http://127.0.0.1/EasyAccounts_CI/local/getCardQuantity.php
+http://127.0.0.1/EasyAccounts_CI/local/getCommand.php
+http://127.0.0.1/EasyAccounts_CI/local/getEmployAttendance.php
+http://127.0.0.1/EasyAccounts_CI/local/getEmployList.php
+http://127.0.0.1/EasyAccounts_CI/local/serverInfo.php
+http://127.0.0.1/EasyAccounts_CI/local/testUpdateStatus.php

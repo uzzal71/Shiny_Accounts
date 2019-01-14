@@ -1,0 +1,6 @@
+Here is the setup for database and file location.
+Both is in local(remote) file and local database(remote).
+Go to Application>view>menu.php:
+20,21 number line.
+There is another database connection.
+Please Check and edit it carefully.
